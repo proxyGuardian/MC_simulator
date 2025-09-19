@@ -164,7 +164,6 @@ class MonteCarloApp:
 What it's for:
 This app predicts the time it will take to deliver each item in your backlog based on historical cycle time data.
 
-
 How it works:
 1. You upload past cycle times from a CSV/Excel file.
 2. You choose how many backlog positions you want to forecast (N).
